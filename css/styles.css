@@ -1,0 +1,56 @@
+.card-content {
+  border: solid 1px #aaa;
+  padding: 10px 40px;
+  width: 300px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 2px 2px 2px #8f8f8f;
+  margin: auto;
+  background: linear-gradient(white,#cec6c3);
+}
+.card-title {
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-variant: small-caps;
+font-size: 30px;
+font-weight:lighter;
+ letter-spacing: 2px;
+background: linear-gradient(#cec6c3,white,#cec6c3);
+box-shadow: 2px 2px 2px #8f8f8f;
+color: #6d6c6c;
+  text-shadow: 1px 1px 1px #aaa;
+  border-radius: 5px;
+  }
+.card-image {
+  width: 300px;
+	border-radius: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.card-facts {
+font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-size: 18px;
+text-shadow: 1px 1px 1px #c0c0c0;
+border: solid 1px #8f8f8f;
+border-radius: 5px;
+box-shadow: 2px 2px 2px #8f8f8f;
+padding: 5px;
+background-color:#e5e1e0;
+
+}
+.interesting-fact {
+  font-style: italic;
+  font-size:20px;
+}
+.animal-features {
+  letter-spacing: 1px;
+  text-align: left;
+
+  }
+.animal-list-item {
+  list-style-type: none;
+}
+.label-tag {
+  font-weight: bold;
+}
+.animal-description {
+}
